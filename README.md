@@ -33,14 +33,6 @@ Collections Framework – Using ArrayList to store books and users.
 
 Control Structures – Menu-driven interaction using loops and switch cases.
 
-🏗️ Class Structure
-
-Class	                          Description
------                           -----------
-Book	                          Represents a single book with ID, title, author, and issue status.
-User	                          Represents a library user with ID, name, and a list of issued books.
-Library	                        Core class that manages books, users, and operations like issuing and returning.
-LibraryManagement	              Contains the main() method and provides a menu-driven interface for user interaction.
 
 🖥️ How to Run the Program
 
