@@ -40,10 +40,10 @@ Save the file as LibraryManagement.java.
 
 Compile the program using:
 
-javac LibraryManagement.java
+-> javac LibraryManagement.java
 
 Run the program:
 
-java LibraryManagement
+-> java LibraryManagement
 
 Use the menu options to add books, users, issue, and return books.
